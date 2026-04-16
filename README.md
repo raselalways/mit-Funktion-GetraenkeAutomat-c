@@ -1,1 +1,1 @@
-# mit-Funktion-Gaetr-nkeAutomat-c
+# mit-Funktion-GetraenkeAutomat-c
