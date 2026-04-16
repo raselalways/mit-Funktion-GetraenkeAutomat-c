@@ -1,0 +1,1 @@
+# mit-Funktion-Gaetr-nkeAutomat-c
